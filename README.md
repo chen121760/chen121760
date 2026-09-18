@@ -1,6 +1,10 @@
 <div align="center">
 
-# Jiawei Chen
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chen121760/chen121760/main/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chen121760/chen121760/main/banner.svg">
+  <img alt="Jiawei Chen — hand-drawn banner: a crystal lattice with one vacancy, an atom with orbiting electrons, and a sketched curve" src="https://raw.githubusercontent.com/chen121760/chen121760/main/banner.svg" width="860" height="230">
+</picture>
 
 *crystal structure prediction · machine learning · first-principles calculations*
 
