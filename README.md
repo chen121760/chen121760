@@ -8,11 +8,12 @@
 
 *crystal structure prediction · machine learning · first-principles calculations*
 
-<!-- 打字机动画：深/浅色各一份配色，避免深色模式下灰字看不清 -->
+<!-- 打字机动画：SVG 存在本仓库里。外链图的 srcset 会被 GitHub 的 camo 代理截断到 256 字符，
+     导致最后一行整行消失（历史 bug），所以这里改用仓库内文件 + raw 短链接 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&pause=1800&color=C9D1D9&center=true&vCenter=true&width=820&lines=Building+small+useful+tools+for+scientific+research.;I+do+my+best+work+under+pressure.+Usually+0-100+GPa.;VASP%3A+Very+Advanced,+Sometimes+Painful.;I+predict+crystal+structures.+Sometimes+they+even+exist.">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&pause=1800&color=4B4B4B&center=true&vCenter=true&width=820&lines=Building+small+useful+tools+for+scientific+research.;I+do+my+best+work+under+pressure.+Usually+0-100+GPa.;VASP%3A+Very+Advanced,+Sometimes+Painful.;I+predict+crystal+structures.+Sometimes+they+even+exist.">
-  <img alt="Building small useful tools for scientific research. I do my best work under pressure, usually 0-100 GPa. VASP: Very Advanced, Sometimes Painful. I predict crystal structures. Sometimes they even exist." src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&pause=1800&color=4B4B4B&center=true&vCenter=true&width=820&lines=Building+small+useful+tools+for+scientific+research.;I+do+my+best+work+under+pressure.+Usually+0-100+GPa.;VASP%3A+Very+Advanced,+Sometimes+Painful.;I+predict+crystal+structures.+Sometimes+they+even+exist.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chen121760/chen121760/main/typing-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chen121760/chen121760/main/typing.svg">
+  <img alt="Building small useful tools for scientific research. I do my best work under pressure, usually 0-100 GPa. VASP: Very Advanced, Sometimes Painful. I predict crystal structures. Sometimes they even exist." src="https://raw.githubusercontent.com/chen121760/chen121760/main/typing.svg">
 </picture>
 
 <br/>
